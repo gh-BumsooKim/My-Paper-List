@@ -12,4 +12,6 @@
 
 ## International Conference
 
+- **A Study on Building Training Dataset to Improve Edge-based Object Detection,** PlatCon21-Workshop CIA
+- **Image Data Augmentation Comparison for Deep Learning,** PlatCon21-Workshop CIA
 - **Virtual Characters based Personalized Intelligent Agent Service using Face Recognition,** ICAI2021
