@@ -2,6 +2,7 @@
 
 ## Domestic Conference
 
+- **Real-time Depth Map Style Transfer in Object-Attention Region for Projection Mapping,** NCISS'21
 - **Object-Background Region Seperation in Depth Image using k-Means Clustering Algorithm,** KISM'21
 - **Object Pose Estimation using ORB Algorithm according to Feature Extraction,** KISM'21
 - **Virtual Space Construction and Multi-Plane Extraction Techniques for Real-World Indoor Space Structure Estimation,** CALSEC'21
