@@ -15,11 +15,10 @@
 
 ## International Conference
 
-- **A Study on Building Training Dataset to Improve Edge-based Object Detection,** PlatCon21-Workshop CIA
 - **Image Data Augmentation Comparison for Deep Learning,** PlatCon21-Workshop CIA
 - **Virtual Characters based Personalized Intelligent Agent Service using Face Recognition,** ICAI`21 in CSCE2021
 
 ## International Journal
 
-- TBA
+- **A Study on Building Training Dataset to Improve Edge-based Object Detection,** <br>Platform Technology Letters(PTL) : Vol 7, Issue 2, 2021<br> [**DOI** : http://doi.org/10.23074/PTL.070204](http://doi.org/10.23074/PTL.070204)
 - TBA (SCIE)
