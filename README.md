@@ -2,6 +2,8 @@
 
 ## Domestic Conference
 
+- **RGBD Camera-Projector Indirect Calibration Algorithm for Dynamic Projection Mapping in Indoor Space**, KMMS'22 Summer
+- **ToF-based Object Color Context Restoration AutoEncoder for Style Transfer in Lightless Indoor Space**, KSII`22 Summer
 - **Real-time Depth Map Style Transfer in Object-Attention Region for Projection Mapping,** NCISS'21
 - **Object-Background Region Seperation in Depth Image using k-Means Clustering Algorithm,** KISM'21
 - **Object Pose Estimation using ORB Algorithm according to Feature Extraction,** KISM'21
@@ -15,6 +17,7 @@
 
 ## International Conference
 
+- **Irregular Quadrilateral Region Tracking from 6-DoF Multi-Object for Dynamic Projection Mapping** CSCI2022
 - **Image Data Augmentation Comparison for Deep Learning,** PlatCon21-Workshop CIA
 - **Virtual Characters based Personalized Intelligent Agent Service using Face Recognition,** ICAI`21 in CSCE2021
 
