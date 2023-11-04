@@ -17,13 +17,19 @@
 
 ## International Conference
 
+- **Real Object Pixelization Using Image Processing Techniques**, PlatCon2023
+- **Automatic 3d mesh Deformation Using Anime Character Image Information**, APIC-ICT2023
+- **Geometric Transformation‑aware Arbitrary Style Transfer based on AdaIN**, ICTC2022
 - **Irregular Quadrilateral Region Tracking from 6-DoF Multi-Object for Dynamic Projection Mapping** CSCI2022
 - **Image Data Augmentation Comparison for Deep Learning,** PlatCon21-Workshop CIA
 - **Virtual Characters based Personalized Intelligent Agent Service using Face Recognition,** ICAI`21 in CSCE2021
-- TBA
+
 
 ## International Journal
 
-- **A Study on Building Training Dataset to Improve Edge-based Object Detection,** <br>Platform Technology Letters(PTL) : vol. 7, Issue 2, 2021<br> [**DOI** : http://doi.org/10.23074/PTL.070204](http://doi.org/10.23074/PTL.070204)
+- **EfficientNetV2‑based Dynamic Gesture Recognition using transformed Scalogram from Triaxial Acceleration Signal**. <br> JCDE, vol. 10, pp. 1694-1706, **(SCIE,  IF4.90)** <br> [**DOI**: https://doi.org/10.1093/jcde/qwad068](https://doi.org/10.1093/jcde/qwad068).
 - **Intelligent Digital Human Agent Service with Deep Learning Based-Face Recognition**, <br> IEEE Access, vol. 10, pp. 72794-72805, 2022. **(SCIE, IF3.46)**  <br> [**DOI**: https://doi.org/10.1109/ACCESS.2022.3188852](https://doi.org/10.1109/ACCESS.2022.3188852).
-- TBA (SCIE)
+- **A Study on Building Training Dataset to Improve Edge-based Object Detection,** <br>Platform Technology Letters(PTL) : vol. 7, Issue 2, 2021<br> [**DOI** : http://doi.org/10.23074/PTL.070204](http://doi.org/10.23074/PTL.070204)
+
+## Top-tier AI/CS
+- **Minecraft‑ify: Minecraft Style Image Generation with Text‑guided Image Editing for In‑Game Application**, NeurIPS2023 Workshop on ML4CD, New Orleans, US, 2023
